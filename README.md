@@ -50,4 +50,3 @@ DB_PASSWORD=laravel_pass
 
 ・phpMyAdmin：http://localhost:8080/
 
-
